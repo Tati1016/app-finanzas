@@ -1,0 +1,16 @@
+# Dependencias
+node_modules/
+
+# Firebase
+.firebase/
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*
+
+# Build
+dist/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
